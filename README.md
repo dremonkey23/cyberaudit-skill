@@ -1,7 +1,7 @@
 # CyberAudit
 
 **Know your exposure. Fix what matters.**
-*by cybersecurity experts*
+*by @drizzy8423*
 
 ---
 
@@ -38,7 +38,7 @@ Security Score: 85/100 (B)
 1. [MEDIUM] Close port 3389 if you're not using Remote Desktop
 
 ━━━━━━━━━━━━━━━━━━━
-by cybersecurity experts | CyberAudit v1.0
+by @drizzy8423 | CyberAudit v1.0
 ```
 
 ## Platform Support
@@ -57,4 +57,4 @@ That's it. CyberAudit handles the rest.
 
 ---
 
-*CyberAudit v1.0 — by cybersecurity experts*
+*CyberAudit v1.0 — by @drizzy8423*
